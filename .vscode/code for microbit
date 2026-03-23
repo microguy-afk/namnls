@@ -1,0 +1,13 @@
+input.onButtonPressed(Button.A, function () {
+    basic.showString("BOBOCLAT")
+})
+input.onGesture(Gesture.Shake, function () {
+    basic.showLeds(`
+        . . . . .
+        . # . # .
+        # . . . #
+        . # # # .
+        . . . . .
+        `)
+})
+copy all that and paste it in https://makecode.microbit.org/#editor
