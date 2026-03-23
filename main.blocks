@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="-?-eMOFo.Mp^!kIr9V/w">BOBOCLAT</variable></variables><block type="device_gesture_event" id="Q_MuhkW65[)H(jGRq}#^" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="a4V-C({EXd*4]4G(CHtn"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="o)Es6]dwA6?_yaD|M/uc" x="435" y="358"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="2//`Oc`hUXF1312v*J9D"><value name="text"><shadow type="text" id="{ynh3Oi!Pa#8$rNI~O1v"><field name="TEXT">BOBOCLAT</field></shadow></value></block></statement></block></xml>
